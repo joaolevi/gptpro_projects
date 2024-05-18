@@ -1,3 +1,8 @@
+# Bibliotecas gerais
 openai
 requests
 python-dotenv
+
+# PROJETO 2 - SUMMARIZER
+youtube-transcript-api
+ipykernel
