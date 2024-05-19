@@ -6,3 +6,7 @@ python-dotenv
 # PROJETO 2 - SUMMARIZER
 youtube-transcript-api
 ipykernel
+
+# PROJETO 3 - Virtual Assistent
+flask
+jsonlines

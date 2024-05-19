@@ -1,0 +1,51 @@
+cliente,assistente
+"Olá, estou com um problema com meu pedido. Ele ainda não chegou. (#001)","Olá! Desculpe pelo inconveniente. Por favor, forneça o número do seu pedido para que possamos verificar. (#001)"
+"Meu pedido veio errado, recebi um item diferente. (#002)",Peço desculpas por isso. Você poderia nos dizer qual foi o item que veio errado e qual deveria ter vindo? (#002)
+Eu gostaria de saber quanto tempo leva para a entrega. (#003),"Normalmente, nosso tempo de entrega é de aproximadamente 30 a 45 minutos. Pode variar dependendo do tráfego e da demanda. (#003)"
+Posso alterar o endereço de entrega do meu pedido? (#004),"Sim, claro. Por favor, forneça o novo endereço para que possamos atualizar em nosso sistema. (#004)"
+Qual é a política de reembolso da SuperFastFood? (#005),"Se houver algum problema com seu pedido, podemos oferecer um reembolso total ou parcial, dependendo do caso. Entre em contato com nosso suporte para mais detalhes. (#005)"
+Meu pedido está atrasado. O que posso fazer? (#006),Pedimos desculpas pelo atraso. Estamos verificando com o entregador. Manteremos você informado sobre o status do seu pedido. (#006)
+Como posso aplicar um código de desconto ao meu pedido? (#007),"Você pode inserir o código de desconto na seção de pagamento antes de finalizar o pedido. Se tiver problemas, estamos aqui para ajudar. (#007)"
+Quais formas de pagamento vocês aceitam? (#008),"Aceitamos cartões de crédito, débito, PIX e dinheiro. Qualquer dúvida, estamos à disposição. (#008)"
+Posso cancelar meu pedido? (#009),"Sim, você pode cancelar o pedido, desde que ainda não tenha sido preparado. Por favor, forneça o número do pedido para que possamos proceder com o cancelamento. (#009)"
+Como faço para rastrear meu pedido? (#0010),Você pode rastrear seu pedido através do link enviado por e-mail ou acessar a seção de 'Meus Pedidos' em nosso site. (#0010)
+"O entregador não encontrou meu endereço, o que devo fazer? (#0011)","Por favor, verifique se o endereço fornecido está correto e completo. Se necessário, podemos entrar em contato com o entregador para dar mais instruções. (#0011)"
+"Recebi um item danificado, como proceder? (#0012)",Pedimos desculpas pelo inconveniente. Poderia nos enviar uma foto do item danificado para que possamos resolver o problema? (#0012)
+Vocês oferecem opções de comida vegana? (#0013),"Sim, oferecemos várias opções veganas no nosso menu. Você pode encontrá-las na seção 'Veganos'. (#0013)"
+Como posso alterar meu pedido depois de já ter sido feito? (#0014),"Após a confirmação do pedido, ele pode ser alterado em até 5 minutos. Por favor, entre em contato rapidamente. (#0014)"
+Vocês entregam em finais de semana e feriados? (#0015),"Sim, entregamos em finais de semana e feriados. Nosso horário de entrega é das 9h às 23h. (#0015)"
+Qual é o horário de funcionamento do atendimento ao cliente? (#0016),"Nosso atendimento ao cliente funciona das 8h às 22h, de segunda a domingo. (#0016)"
+"O site está apresentando erro na hora de finalizar o pedido, o que faço? (#0017)","Pedimos desculpas pelo erro. Por favor, tente limpar o cache do seu navegador ou utilizar um navegador diferente. (#0017)"
+Qual é o telefone para contato da SuperFastFood? (#0018),Você pode nos contatar pelo telefone (xx) xxxx-xxxx. (#0018)
+Vocês têm aplicativo para celular? (#0019),"Sim, temos um aplicativo disponível para iOS e Android. Você pode baixá-lo na App Store ou Google Play. (#0019)"
+Como faço para recuperar minha senha no site? (#0020),Clique em 'Esqueci minha senha' na página de login e siga as instruções para redefinir sua senha. (#0020)
+"Minha comida chegou fria, o que faço? (#0021)",Pedimos desculpas por isso. Vamos investigar o problema e providenciar uma solução adequada. (#0021)
+O que devo fazer se eu esquecer de incluir um item no meu pedido? (#0022),Você pode incluir o item faltante em um novo pedido e entrar em contato conosco para combinar a entrega junto com o pedido existente. (#0022)
+Vocês têm algum programa de fidelidade? (#0023),"Sim, temos um programa de fidelidade. A cada pedido, você acumula pontos que podem ser trocados por descontos. (#0023)"
+Vocês entregam em áreas rurais? (#0024),"Atualmente, não entregamos em áreas rurais. Por favor, verifique se há um ponto de encontro próximo. (#0024)"
+Qual é o valor mínimo para entrega? (#0025),"O valor mínimo para entrega é de R$ 30,00. (#0025)"
+Posso agendar uma entrega para um horário específico? (#0026),"Sim, você pode agendar a entrega durante o processo de finalização do pedido. (#0026)"
+Vocês aceitam pagamentos com cartão de refeição? (#0027),"Sim, aceitamos cartões de refeição das principais bandeiras. Se tiver dúvidas, entre em contato conosco. (#0027)"
+Como faço para reclamar de um entregador? (#0028),"Pedimos desculpas pelo ocorrido. Por favor, envie os detalhes do incidente para que possamos tomar as medidas necessárias. (#0028)"
+Quais são as taxas de entrega? (#0029),As taxas de entrega variam de acordo com a localização. Você pode verificar o valor exato ao finalizar seu pedido. (#0029)
+Vocês têm algum desconto para a primeira compra? (#0030),"Sim, oferecemos um desconto de 10% na sua primeira compra. Use o código BEMVINDO10 no checkout. (#0030)"
+Posso pagar com dinheiro e receber troco? (#0031),"Sim, você pode pagar com dinheiro. Por favor, informe se precisará de troco. (#0031)"
+Vocês oferecem suporte em outros idiomas? (#0032),"Sim, oferecemos suporte em inglês e espanhol. Por favor, solicite o idioma preferido ao iniciar a conversa. (#0032)"
+O que fazer se meu pedido for cancelado sem aviso? (#0033),Pedimos desculpas pelo transtorno. Entre em contato com nosso suporte para mais informações sobre o motivo do cancelamento. (#0033)
+Como posso atualizar meu endereço no meu perfil? (#0034),Você pode atualizar seu endereço na seção 'Minha Conta' em nosso site. (#0034)
+Posso fazer um pedido para outra pessoa? (#0035),"Sim, você pode fazer um pedido para outra pessoa. Basta inserir o endereço de entrega correto. (#0035)"
+Vocês entregam em apartamentos? (#0036),"Sim, entregamos em apartamentos. Por favor, forneça o número do apartamento e o bloco, se aplicável. (#0036)"
+Quais são os pratos mais populares? (#0037),"Nossos pratos mais populares incluem pizza, hambúrguer e sushi. Confira a seção 'Mais Populares' no nosso menu. (#0037)"
+Vocês oferecem embalagens sustentáveis? (#0038),"Sim, utilizamos embalagens recicláveis e biodegradáveis para nossas entregas. (#0038)"
+Como posso obter uma fatura do meu pedido? (#0039),Você pode obter a fatura do seu pedido na seção 'Meus Pedidos' em nosso site. (#0039)
+Vocês têm atendimento 24 horas? (#0040),"Sim, oferecemos atendimento 24 horas em algumas localidades. Verifique a disponibilidade na sua região. (#0040)"
+Como faço para sugerir novos itens no menu? (#0041),Estamos sempre abertos a sugestões! Envie suas ideias pelo nosso formulário de contato. (#0041)
+Vocês têm opções de sobremesa? (#0042),"Sim, temos uma variedade de sobremesas deliciosas. Confira a seção 'Sobremesas' no nosso menu. (#0042)"
+Como posso dar feedback sobre o serviço? (#0043),"Seu feedback é muito importante para nós. Por favor, envie seus comentários através do nosso site ou aplicativo. (#0043)"
+Vocês têm cardápio para crianças? (#0044),"Sim, temos um cardápio especial para crianças. Confira a seção 'Kids' no nosso menu. (#0044)"
+Como posso verificar se meu pedido foi aceito? (#0045),Você pode verificar se seu pedido foi aceito na seção 'Meus Pedidos' em nosso site ou aplicativo. (#0045)
+O que faço se eu receber menos itens do que pedi? (#0046),"Pedimos desculpas pelo erro. Por favor, entre em contato com nosso suporte para resolvermos o problema. (#0046)"
+Vocês entregam bebidas alcoólicas? (#0047),"Sim, entregamos bebidas alcoólicas. Verifique as opções disponíveis na seção 'Bebidas'. (#0047)"
+Como posso fazer um pedido em grande quantidade para um evento? (#0048),"Para pedidos grandes, por favor, entre em contato com nosso suporte para organizar os detalhes. (#0048)"
+Vocês têm opções sem glúten? (#0049),"Sim, oferecemos várias opções sem glúten. Confira a seção 'Sem Glúten' no nosso menu. (#0049)"
+"Olá, estou com um problema com meu pedido. Ele ainda não chegou. (#0050)","Olá! Desculpe pelo inconveniente. Por favor, forneça o número do seu pedido para que possamos verificar. (#0050)"

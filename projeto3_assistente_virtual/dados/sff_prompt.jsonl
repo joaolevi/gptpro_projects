@@ -1,0 +1,100 @@
+{"role": "user", "content": "Ol\u00e1, estou com um problema com meu pedido. Ele ainda n\u00e3o chegou. (#001)"}
+{"role": "assistant", "content": "Ol\u00e1! Desculpe pelo inconveniente. Por favor, forne\u00e7a o n\u00famero do seu pedido para que possamos verificar. (#001)"}
+{"role": "user", "content": "Meu pedido veio errado, recebi um item diferente. (#002)"}
+{"role": "assistant", "content": "Pe\u00e7o desculpas por isso. Voc\u00ea poderia nos dizer qual foi o item que veio errado e qual deveria ter vindo? (#002)"}
+{"role": "user", "content": "Eu gostaria de saber quanto tempo leva para a entrega. (#003)"}
+{"role": "assistant", "content": "Normalmente, nosso tempo de entrega \u00e9 de aproximadamente 30 a 45 minutos. Pode variar dependendo do tr\u00e1fego e da demanda. (#003)"}
+{"role": "user", "content": "Posso alterar o endere\u00e7o de entrega do meu pedido? (#004)"}
+{"role": "assistant", "content": "Sim, claro. Por favor, forne\u00e7a o novo endere\u00e7o para que possamos atualizar em nosso sistema. (#004)"}
+{"role": "user", "content": "Qual \u00e9 a pol\u00edtica de reembolso da SuperFastFood? (#005)"}
+{"role": "assistant", "content": "Se houver algum problema com seu pedido, podemos oferecer um reembolso total ou parcial, dependendo do caso. Entre em contato com nosso suporte para mais detalhes. (#005)"}
+{"role": "user", "content": "Meu pedido est\u00e1 atrasado. O que posso fazer? (#006)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo atraso. Estamos verificando com o entregador. Manteremos voc\u00ea informado sobre o status do seu pedido. (#006)"}
+{"role": "user", "content": "Como posso aplicar um c\u00f3digo de desconto ao meu pedido? (#007)"}
+{"role": "assistant", "content": "Voc\u00ea pode inserir o c\u00f3digo de desconto na se\u00e7\u00e3o de pagamento antes de finalizar o pedido. Se tiver problemas, estamos aqui para ajudar. (#007)"}
+{"role": "user", "content": "Quais formas de pagamento voc\u00eas aceitam? (#008)"}
+{"role": "assistant", "content": "Aceitamos cart\u00f5es de cr\u00e9dito, d\u00e9bito, PIX e dinheiro. Qualquer d\u00favida, estamos \u00e0 disposi\u00e7\u00e3o. (#008)"}
+{"role": "user", "content": "Posso cancelar meu pedido? (#009)"}
+{"role": "assistant", "content": "Sim, voc\u00ea pode cancelar o pedido, desde que ainda n\u00e3o tenha sido preparado. Por favor, forne\u00e7a o n\u00famero do pedido para que possamos proceder com o cancelamento. (#009)"}
+{"role": "user", "content": "Como fa\u00e7o para rastrear meu pedido? (#0010)"}
+{"role": "assistant", "content": "Voc\u00ea pode rastrear seu pedido atrav\u00e9s do link enviado por e-mail ou acessar a se\u00e7\u00e3o de 'Meus Pedidos' em nosso site. (#0010)"}
+{"role": "user", "content": "O entregador n\u00e3o encontrou meu endere\u00e7o, o que devo fazer? (#0011)"}
+{"role": "assistant", "content": "Por favor, verifique se o endere\u00e7o fornecido est\u00e1 correto e completo. Se necess\u00e1rio, podemos entrar em contato com o entregador para dar mais instru\u00e7\u00f5es. (#0011)"}
+{"role": "user", "content": "Recebi um item danificado, como proceder? (#0012)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo inconveniente. Poderia nos enviar uma foto do item danificado para que possamos resolver o problema? (#0012)"}
+{"role": "user", "content": "Voc\u00eas oferecem op\u00e7\u00f5es de comida vegana? (#0013)"}
+{"role": "assistant", "content": "Sim, oferecemos v\u00e1rias op\u00e7\u00f5es veganas no nosso menu. Voc\u00ea pode encontr\u00e1-las na se\u00e7\u00e3o 'Veganos'. (#0013)"}
+{"role": "user", "content": "Como posso alterar meu pedido depois de j\u00e1 ter sido feito? (#0014)"}
+{"role": "assistant", "content": "Ap\u00f3s a confirma\u00e7\u00e3o do pedido, ele pode ser alterado em at\u00e9 5 minutos. Por favor, entre em contato rapidamente. (#0014)"}
+{"role": "user", "content": "Voc\u00eas entregam em finais de semana e feriados? (#0015)"}
+{"role": "assistant", "content": "Sim, entregamos em finais de semana e feriados. Nosso hor\u00e1rio de entrega \u00e9 das 9h \u00e0s 23h. (#0015)"}
+{"role": "user", "content": "Qual \u00e9 o hor\u00e1rio de funcionamento do atendimento ao cliente? (#0016)"}
+{"role": "assistant", "content": "Nosso atendimento ao cliente funciona das 8h \u00e0s 22h, de segunda a domingo. (#0016)"}
+{"role": "user", "content": "O site est\u00e1 apresentando erro na hora de finalizar o pedido, o que fa\u00e7o? (#0017)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo erro. Por favor, tente limpar o cache do seu navegador ou utilizar um navegador diferente. (#0017)"}
+{"role": "user", "content": "Qual \u00e9 o telefone para contato da SuperFastFood? (#0018)"}
+{"role": "assistant", "content": "Voc\u00ea pode nos contatar pelo telefone (xx) xxxx-xxxx. (#0018)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam aplicativo para celular? (#0019)"}
+{"role": "assistant", "content": "Sim, temos um aplicativo dispon\u00edvel para iOS e Android. Voc\u00ea pode baix\u00e1-lo na App Store ou Google Play. (#0019)"}
+{"role": "user", "content": "Como fa\u00e7o para recuperar minha senha no site? (#0020)"}
+{"role": "assistant", "content": "Clique em 'Esqueci minha senha' na p\u00e1gina de login e siga as instru\u00e7\u00f5es para redefinir sua senha. (#0020)"}
+{"role": "user", "content": "Minha comida chegou fria, o que fa\u00e7o? (#0021)"}
+{"role": "assistant", "content": "Pedimos desculpas por isso. Vamos investigar o problema e providenciar uma solu\u00e7\u00e3o adequada. (#0021)"}
+{"role": "user", "content": "O que devo fazer se eu esquecer de incluir um item no meu pedido? (#0022)"}
+{"role": "assistant", "content": "Voc\u00ea pode incluir o item faltante em um novo pedido e entrar em contato conosco para combinar a entrega junto com o pedido existente. (#0022)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam algum programa de fidelidade? (#0023)"}
+{"role": "assistant", "content": "Sim, temos um programa de fidelidade. A cada pedido, voc\u00ea acumula pontos que podem ser trocados por descontos. (#0023)"}
+{"role": "user", "content": "Voc\u00eas entregam em \u00e1reas rurais? (#0024)"}
+{"role": "assistant", "content": "Atualmente, n\u00e3o entregamos em \u00e1reas rurais. Por favor, verifique se h\u00e1 um ponto de encontro pr\u00f3ximo. (#0024)"}
+{"role": "user", "content": "Qual \u00e9 o valor m\u00ednimo para entrega? (#0025)"}
+{"role": "assistant", "content": "O valor m\u00ednimo para entrega \u00e9 de R$ 30,00. (#0025)"}
+{"role": "user", "content": "Posso agendar uma entrega para um hor\u00e1rio espec\u00edfico? (#0026)"}
+{"role": "assistant", "content": "Sim, voc\u00ea pode agendar a entrega durante o processo de finaliza\u00e7\u00e3o do pedido. (#0026)"}
+{"role": "user", "content": "Voc\u00eas aceitam pagamentos com cart\u00e3o de refei\u00e7\u00e3o? (#0027)"}
+{"role": "assistant", "content": "Sim, aceitamos cart\u00f5es de refei\u00e7\u00e3o das principais bandeiras. Se tiver d\u00favidas, entre em contato conosco. (#0027)"}
+{"role": "user", "content": "Como fa\u00e7o para reclamar de um entregador? (#0028)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo ocorrido. Por favor, envie os detalhes do incidente para que possamos tomar as medidas necess\u00e1rias. (#0028)"}
+{"role": "user", "content": "Quais s\u00e3o as taxas de entrega? (#0029)"}
+{"role": "assistant", "content": "As taxas de entrega variam de acordo com a localiza\u00e7\u00e3o. Voc\u00ea pode verificar o valor exato ao finalizar seu pedido. (#0029)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam algum desconto para a primeira compra? (#0030)"}
+{"role": "assistant", "content": "Sim, oferecemos um desconto de 10% na sua primeira compra. Use o c\u00f3digo BEMVINDO10 no checkout. (#0030)"}
+{"role": "user", "content": "Posso pagar com dinheiro e receber troco? (#0031)"}
+{"role": "assistant", "content": "Sim, voc\u00ea pode pagar com dinheiro. Por favor, informe se precisar\u00e1 de troco. (#0031)"}
+{"role": "user", "content": "Voc\u00eas oferecem suporte em outros idiomas? (#0032)"}
+{"role": "assistant", "content": "Sim, oferecemos suporte em ingl\u00eas e espanhol. Por favor, solicite o idioma preferido ao iniciar a conversa. (#0032)"}
+{"role": "user", "content": "O que fazer se meu pedido for cancelado sem aviso? (#0033)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo transtorno. Entre em contato com nosso suporte para mais informa\u00e7\u00f5es sobre o motivo do cancelamento. (#0033)"}
+{"role": "user", "content": "Como posso atualizar meu endere\u00e7o no meu perfil? (#0034)"}
+{"role": "assistant", "content": "Voc\u00ea pode atualizar seu endere\u00e7o na se\u00e7\u00e3o 'Minha Conta' em nosso site. (#0034)"}
+{"role": "user", "content": "Posso fazer um pedido para outra pessoa? (#0035)"}
+{"role": "assistant", "content": "Sim, voc\u00ea pode fazer um pedido para outra pessoa. Basta inserir o endere\u00e7o de entrega correto. (#0035)"}
+{"role": "user", "content": "Voc\u00eas entregam em apartamentos? (#0036)"}
+{"role": "assistant", "content": "Sim, entregamos em apartamentos. Por favor, forne\u00e7a o n\u00famero do apartamento e o bloco, se aplic\u00e1vel. (#0036)"}
+{"role": "user", "content": "Quais s\u00e3o os pratos mais populares? (#0037)"}
+{"role": "assistant", "content": "Nossos pratos mais populares incluem pizza, hamb\u00farguer e sushi. Confira a se\u00e7\u00e3o 'Mais Populares' no nosso menu. (#0037)"}
+{"role": "user", "content": "Voc\u00eas oferecem embalagens sustent\u00e1veis? (#0038)"}
+{"role": "assistant", "content": "Sim, utilizamos embalagens recicl\u00e1veis e biodegrad\u00e1veis para nossas entregas. (#0038)"}
+{"role": "user", "content": "Como posso obter uma fatura do meu pedido? (#0039)"}
+{"role": "assistant", "content": "Voc\u00ea pode obter a fatura do seu pedido na se\u00e7\u00e3o 'Meus Pedidos' em nosso site. (#0039)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam atendimento 24 horas? (#0040)"}
+{"role": "assistant", "content": "Sim, oferecemos atendimento 24 horas em algumas localidades. Verifique a disponibilidade na sua regi\u00e3o. (#0040)"}
+{"role": "user", "content": "Como fa\u00e7o para sugerir novos itens no menu? (#0041)"}
+{"role": "assistant", "content": "Estamos sempre abertos a sugest\u00f5es! Envie suas ideias pelo nosso formul\u00e1rio de contato. (#0041)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam op\u00e7\u00f5es de sobremesa? (#0042)"}
+{"role": "assistant", "content": "Sim, temos uma variedade de sobremesas deliciosas. Confira a se\u00e7\u00e3o 'Sobremesas' no nosso menu. (#0042)"}
+{"role": "user", "content": "Como posso dar feedback sobre o servi\u00e7o? (#0043)"}
+{"role": "assistant", "content": "Seu feedback \u00e9 muito importante para n\u00f3s. Por favor, envie seus coment\u00e1rios atrav\u00e9s do nosso site ou aplicativo. (#0043)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam card\u00e1pio para crian\u00e7as? (#0044)"}
+{"role": "assistant", "content": "Sim, temos um card\u00e1pio especial para crian\u00e7as. Confira a se\u00e7\u00e3o 'Kids' no nosso menu. (#0044)"}
+{"role": "user", "content": "Como posso verificar se meu pedido foi aceito? (#0045)"}
+{"role": "assistant", "content": "Voc\u00ea pode verificar se seu pedido foi aceito na se\u00e7\u00e3o 'Meus Pedidos' em nosso site ou aplicativo. (#0045)"}
+{"role": "user", "content": "O que fa\u00e7o se eu receber menos itens do que pedi? (#0046)"}
+{"role": "assistant", "content": "Pedimos desculpas pelo erro. Por favor, entre em contato com nosso suporte para resolvermos o problema. (#0046)"}
+{"role": "user", "content": "Voc\u00eas entregam bebidas alco\u00f3licas? (#0047)"}
+{"role": "assistant", "content": "Sim, entregamos bebidas alco\u00f3licas. Verifique as op\u00e7\u00f5es dispon\u00edveis na se\u00e7\u00e3o 'Bebidas'. (#0047)"}
+{"role": "user", "content": "Como posso fazer um pedido em grande quantidade para um evento? (#0048)"}
+{"role": "assistant", "content": "Para pedidos grandes, por favor, entre em contato com nosso suporte para organizar os detalhes. (#0048)"}
+{"role": "user", "content": "Voc\u00eas t\u00eam op\u00e7\u00f5es sem gl\u00faten? (#0049)"}
+{"role": "assistant", "content": "Sim, oferecemos v\u00e1rias op\u00e7\u00f5es sem gl\u00faten. Confira a se\u00e7\u00e3o 'Sem Gl\u00faten' no nosso menu. (#0049)"}
+{"role": "user", "content": "Ol\u00e1, estou com um problema com meu pedido. Ele ainda n\u00e3o chegou. (#0050)"}
+{"role": "assistant", "content": "Ol\u00e1! Desculpe pelo inconveniente. Por favor, forne\u00e7a o n\u00famero do seu pedido para que possamos verificar. (#0050)"}

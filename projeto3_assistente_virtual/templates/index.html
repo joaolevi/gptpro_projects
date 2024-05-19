@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assistente Virtual</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .chatbox { width: 300px; margin: auto; margin-top: 50px; }
+        .chatlogs { height: 300px; border: 1px solid #ccc; overflow-y: scroll; padding: 10px; }
+        .chat { margin-bottom: 10px; }
+        .user { color: blue; }
+        .bot { color: green; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="chatbox">
+        <div class="chatlogs" id="chatlogs"></div>
+        <input type="text" id="userInput" placeholder="Escreva sua mensagem aqui..." autofocus>
+        <button onclick="sendMessage()">Enviar</button>
+    </div>
+    <script>
+        function sendMessage() {
+            var userText = $('#userInput').val();
+            $('#chatlogs').append('<div class="chat user">' + userText + '</div>');
+            $.get('/get', { msg: userText }).done(function(data) {
+                $('#chatlogs').append('<div class="chat bot">' + data + '</div>');
+                $('#userInput').val('');
+                $('#chatlogs').scrollTop($('#chatlogs')[0].scrollHeight);
+            });
+        }
+    </script>
+</body>
+</html>
