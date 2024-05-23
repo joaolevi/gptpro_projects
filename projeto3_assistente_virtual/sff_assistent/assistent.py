@@ -1,13 +1,10 @@
 from openai import OpenAI
 from dotenv import load_dotenv
-import os
 import jsonlines
 
 load_dotenv()
 
-client = OpenAI(
-    api_key=os.environ.get("OPENAI_API_KEY"),
-)
+client = OpenAI()
 
 prompt = [{"role": "system", "content": """Você é um assistente virtual da empresa SuperFastFood que oferece suporte ao cliente.
            Seu telefone para contato é (11) 4001-4002 e o email é "contato@sff.com.br"

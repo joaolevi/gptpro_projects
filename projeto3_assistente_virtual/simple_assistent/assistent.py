@@ -1,12 +1,9 @@
 from openai import OpenAI
 from dotenv import load_dotenv
-import os
 
 load_dotenv()
 
-client = OpenAI(
-    api_key=os.environ.get("OPENAI_API_KEY"),
-)
+client = OpenAI()
 
 prompt = ([
     {"role": "system", "content": "Você é um assistente virtual para suporte ao cliente. Responda às perguntas dos clientes de forma clara e amigável."},
@@ -28,16 +25,6 @@ def get_response(question):
     return answer
 
 # question = "Como posso rastrear meu pedido?"
-# print("Cliente:", question)
-# print("Assistente:", get_response(question))
-
-prompt += ([
-    {"role": "user", "content": "Posso alterar meu endereço de entrega?"},
-    {"role": "assistant", "content": "Sim, você pode alterar seu endereço de entrega antes do envio. Acesse 'Minha Conta' e atualize seu endereço."},
-])
-
-question = "Posso alterar meu endereço de entrega?"
-
+question = input("Digite sua pergunta: ")
 print("Cliente:", question)
 print("Assistente:", get_response(question))
-
